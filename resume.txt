@@ -3,55 +3,50 @@ Software Developer
 
 prielhaz@gmail.com
 052-708-8919
-github.com/PrielHazan
+stringel.netlify.app
 Bnei-Re'em, Israel
 
 LIFE & EXPERIENCE
 ======
 Military Service
-Reilly Group
-2011 - 2015
 Served at the Givati brigade
 as a fighter.
 
 About myself
-Hudson PLC
-1999 - Ongoing
+11/1999 - Ongoing
 Highly motivated, self and quick learner.
 I learned the basics of programming from the Technion's math and programming courses.
 Beyond the freelance jobs I look into
 web courses in udemy and tutorials in the field of android
 development and machine learning.
 
-Python Developer (freelance)
-Program 4 U
-2009 - 2009
-2019 - OngoingDeveloper of desktop and mobile applications for various tasks (Working with images, files, etc), with a user-friendly interface.
+Web & Software Developer
+STRINGEL
+2019 - Ongoing
+Developer of desktop and mobile applications for various tasks (Working with images, files, etc), with a user-friendly interface.
 
 Skills
-Gutmann
-2004 - 2008
  - Desktop Apps
  - Flutter Apps
  - Algorithm Design & Analysis
  - Data Structures
- - User Interface
- - Django
+ - Object Oriented Programming
+ - Django and React
  - Git
  - Python web automation using selenium
  - Web Scraping using Beautiful Soup
  - Game Developer
 
 Projects
-Feel free to visit my gpage and be impressed by the projects
-Feel free to visit my github page to see some projects
- - My brother and I developed an auto-scrolling game using computer vision and Deep Learning.
-The game let the player control the height of the characterwith his body through the webcam.
+Feel free to visit my github page to see some projects:github.com/PrielHazan
+ - I developed a website for my business - stringel.netlify.app - using React. Feel free to visit my site.
  - I have developed an application that allows construction companies to manage projects efficiently using flutter.
  - Developed a 2D fighting game using pygame.
  - InstaBot - I developed a bot that automates operations on Instagram.
- - Developed a blog website using django.
+ - Developed a blog website using django as a backend.
  - I wrote scripts for various tasks.
+ - My brother and I developed an auto-scrolling game using computer vision and Deep Learning.
+The game let the player control the height of the character with his body through the webcam.
 
 
 PROGRAMMING
@@ -60,13 +55,13 @@ Python
 
 C / C++
 
-Dart
-
 Javascript
 
-Java
+Dart
 
 HTML & CSS
+
+Java
 
 
 Strengths
@@ -74,7 +69,7 @@ Strengths
 Reliable and Consistent
 
 Self-Learner
-Researching the project I want to build.Learns from the Internet the optimal way to realize it
+Researching the project I want to build. Learns from the Internet the optimal way to realize it
 
 Hard-working
 complete projects before time, does more than required
