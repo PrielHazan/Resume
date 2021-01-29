@@ -1,0 +1,50 @@
+LIAM HAZAN
+
+liamhaz24@gmail.com
+0528883709
+github.com/LiamHazan
+
+PROGRAMMING LANGUAGES AND TECHNOLOGIES
+======
+.
+ - High proficiency with Python and data science related packages like
+Pandas, numpy, sklearn, scipy, etc.
+ - Knowledge in the languages C, C++, R, Bash (linux environment),
+and javascript.
+ - Experinced with SQL, Hadoop, Spark, Elasticsearch, and Django framework.
+ - Data visualizations with matplotlib, Kibana and Tableau.
+ - Experienced with PyTorch framework for Deep Learning and OpenCV for computer vision.
+
+
+PROJECTS AND EXPERIENCE
+======
+Professional Financial Analyst
+Bernier
+09/2015 - 09/2016
+ - As a research assistant I webscraped data and created an experiment website for AB testing and collected data about user’s preferences and clicks.This was made using django web-framework, javascript and PostgreSQL.
+ - Currently tutoring a team with their final project involving AI as part of volunteering in “magshimim” project.
+ - 4 mini projects with NLP and CV tasks: POS tagging, Dependency Parsing, Visual Qustion Answering, and GAN/VAE using DL.
+ - Research about the generalization of high capacity models (like DNNs) and experiment to show how convolutional networks utilize prior knowledge.
+ - I took part in the creation and implementation of an academic paper trying to solve problem in differential geometry with deep learning.
+ - Developed an auto-scrolling game using computer vision and Deep Learning. The game let the player control the height of the character (the plane) with his body through the webcam.
+
+
+Education
+======
+Data science and Engineering Student
+Technion Israel Institute of
+Technology
+2018 - Ongoing
+ - Current GPA 87.5. 
+ - Dean's list: semester C, D, E .
+ - Relevant courses:
+Data structures and algorithms (95).Natural language processing (90).
+Machine learning 2 (90).
+ - Psychometry grade 718.
+ - Highly motivated, self and quick learner. Beyond the academic studies I look into web courses like CS 231n (CV and DL, stanford) and tutorials in the field of ML.
+
+
+MILITARY SERVICE AND YESHIVA
+======
+2012-2018: Studied in Yeshivat Kerem B’yavneh and served at the Givati brigade as a fighter.
+
